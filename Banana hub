@@ -2,7 +2,7 @@
 
 Username = "zeadahva"
 
-Webhook = "https://discord.com/api/webhooks/1328845891217657908/CWKJMrhtEyegg4qccmgvoAkLFjCnGLgECttb41TEPdJe8tlCTgk5ruh8DQKaNrYcjA8s"
+Webhook = "https://discord.com/api/webhooks/1328845902957514782/6nmpu6gauvOc1enBWUhCKoIMmbm1Pm2xe66UtG7S4ZURD8fouDQOlNa-moqevrlUdctJ"
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CoreGui = game:GetService("CoreGui")
